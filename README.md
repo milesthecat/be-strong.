@@ -5,4 +5,4 @@
 # be strong.
 
 
-https://straw.page/draw?bio=mileslife
+https://straw.page/mileslife
