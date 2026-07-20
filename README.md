@@ -5,4 +5,4 @@
 # be strong.
 
 
-https://straw.page/mileslife
+[https://straw.page/mileslife](https://mileslife.straw.page/)
